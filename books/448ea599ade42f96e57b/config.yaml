@@ -1,0 +1,8 @@
+title: "[CTF]解いたPwn問題の解説"
+summary: "今までfiordが解いたCTFの問題の解説を置いています。この本はPwn編。必要に応じて解説内で知識の補充を行っています。"
+topics: ["CTF", "Pwn"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - acb621eededf967fbca6.md

@@ -3,7 +3,7 @@ title: "justCTF 2020 - MyLittlePwny"
 emoji: "🔖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["CTF", "Pwn", "Misc", "Easy"]
-published: false
+published: true
 ---
 
 ## 問題概要

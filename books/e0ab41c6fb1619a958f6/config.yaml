@@ -1,0 +1,8 @@
+title: "[CTF]解いたWeb問題の解説"
+summary: "今までfiordが解いたCTFの問題の解説を置いています。この本はWeb編。必要に応じて解説内で知識の補充を行っています。"
+topics: ["CTF", "Web"]
+published: true
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - c58534dfad7610336025.md
